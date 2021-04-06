@@ -1,11 +1,11 @@
 # Tutorial de LaTeX
 
-Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto Federal de Rondônia Campus Ji-Paraná da disciplina (fill) da Profa. Dra. Andreza Pereira Mendonça (andreza.mendonca{arroba}ifro.edu.br)
+Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto Federal de Rondônia Campus Ji-Paraná da disciplina de Tópicos Especiais em Engenharia Florestal da Profa. Dra. Andreza Pereira Mendonça (andreza.mendonca{arroba}ifro.edu.br)
 
 ## Material do minicurso
 
-1. Slides
-2. Template
+1. [Slides](./TutorialLaTeX.pdf)
+2. [Template](./template.zip)
 
 ## Links Úteis
 
