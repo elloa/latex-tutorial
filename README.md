@@ -1,6 +1,6 @@
 # Tutorial de LaTeX
 
-Esse repositório contém dicas para LaTeX para o minicurso hands-on do Instituto Federal de Rondônia Campus Ji-Paraná da disciplina (fill) da Profa. Dra. Andreza Pereira Mendonça (andreza.mendonca{arroba}ifro.edu.br)
+Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto Federal de Rondônia Campus Ji-Paraná da disciplina (fill) da Profa. Dra. Andreza Pereira Mendonça (andreza.mendonca{arroba}ifro.edu.br)
 
 ## Material do minicurso
 
@@ -26,7 +26,7 @@ Esse repositório contém dicas para LaTeX para o minicurso hands-on do Institut
 
 1. [Uma não tão pequena introdução ao LaTeX 2e](http://www.ptep-online.com/ctan/lshort_port.pdf)
 2. [Aprendendo LaTeX](http://www.lac.inpe.br/~margarete/download/MET200-0/apostila_latexpdf.pdf)
-3. [Tutorial para uso do LaTeX na escrita científica](http://sbi.iqsc.usp.br/files/Manual-SBI_LATEX_2013-.pdf)  
+3. [Tutorial para uso do LaTeX na escrita científica](http://sbi.iqsc.usp.br/files/Manual-SBI_LATEX_2013-.pdf)
 4 [Wikilivro de LaTeX](https://pt.wikibooks.org/wiki/Latex)
 5. [Um tutorial de Beamer usando Beamer](http://www.andreloureiro.com/latex/beamer_tutorial_pt.pdf)
 6. [Pôster com Beamer](https://www.ufsm.br/app/uploads/sites/783/2020/02/apostila_minicurso_beamer.pdf)
