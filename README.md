@@ -27,10 +27,10 @@ Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto 
 1. [Uma não tão pequena introdução ao LaTeX 2e](http://www.ptep-online.com/ctan/lshort_port.pdf)
 2. [Aprendendo LaTeX](http://www.lac.inpe.br/~margarete/download/MET200-0/apostila_latexpdf.pdf)
 3. [Tutorial para uso do LaTeX na escrita científica](http://sbi.iqsc.usp.br/files/Manual-SBI_LATEX_2013-.pdf)
-4 [Wikilivro de LaTeX](https://pt.wikibooks.org/wiki/Latex)
+4. [Wikilivro de LaTeX](https://pt.wikibooks.org/wiki/Latex)
 5. [Um tutorial de Beamer usando Beamer](http://www.andreloureiro.com/latex/beamer_tutorial_pt.pdf)
 6. [Pôster com Beamer](https://www.ufsm.br/app/uploads/sites/783/2020/02/apostila_minicurso_beamer.pdf)
-7 [Tabelas em LaTeX](https://www.youtube.com/watch?v=23sdpkoD3yU)
+7. [Tabelas em LaTeX](https://www.youtube.com/watch?v=23sdpkoD3yU)
 8. [Figuras e diagramas com TikZ](http://www.mat.ufpb.br/~lenimar/introtikz.pdf)
 
 
