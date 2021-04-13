@@ -21,6 +21,10 @@ Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto 
 10. [Citation Machine](https://www.citationmachine.net/bibtex)
 11. [Small Guide to Making Nice Tables](https://people.inf.ethz.ch/markusp/teaching/guides/guide-tables.pdf)
 12. [Ipe extensible drawing editor](https://ipe.otfried.org/)
+13. [Gerar BibTeX a partir do DOI](https://doi2bib.org/)
+14. [Modelos de referências no BibTeX](https://www.bibtex.com/e/entry-types/)
+15. [Como colocar tabelas dentro de tabelas?](https://tex.stackexchange.com/questions/177074/possible-to-create-table-inside-a-table)
+16. [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Tutoriais LaTeX
 
