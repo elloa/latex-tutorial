@@ -6,6 +6,7 @@ Esse repositório contém dicas de LaTeX para o minicurso hands-on do Instituto 
 
 1. [Slides](./TutorialLaTeX.pdf)
 2. [Template](./template.zip)
+3. [Template da Sociedade Brasileira de Computação (adaptado)](./sbc-template.zip)
 
 ## Links Úteis
 
